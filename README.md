@@ -1,2 +1,2 @@
 # DIP
-Short Semester Pro
+Short Semester Project
